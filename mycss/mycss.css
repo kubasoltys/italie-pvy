@@ -1,0 +1,141 @@
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: rgb(11, 11, 13);
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+
+
+.hlava {
+    background-image: url('../img/pod-nadpisem.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 50px 0;
+    margin-top: 50px;
+  }
+  .hlava-kontent {
+    padding: 20px;
+  }
+  #hlava-nadpis {
+    font-size: 54px;
+    color: white;
+    margin-bottom: 10px;
+  }
+
+
+
+#podnadpis1 {
+  margin-top: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+}
+#podnadpis2 {
+    color: rgb(54, 208, 54);
+}
+
+
+
+#domu-celek {
+  margin-top: 120px;
+}
+
+#domu-hlavni-nadpis {
+  margin-top: 10px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(54, 208, 54);
+}
+#domu-odstavec-1 {
+  margin-top: 45px;
+  text-align: center;
+  color: rgb(194, 194, 194);
+}
+#domu-odstavec-2-obrazek {
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid none;
+}
+
+
+
+
+#domu-vyvojar {
+  background-image: url(../img/mapa.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#domu-vyvojar-text {
+  padding: 110px;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+.autor {
+  color: rgb(208, 54, 54);
+  text-align: center;
+}
+#tlacitko1 {
+  height: 50px;
+  width: 100px;
+  text-align: center;
+}
+
+
+
+
+#main-castistranky {
+  margin-top: 170px;
+}
+#main-nadpis1 {
+  color: rgb(208, 54, 54);
+  font-size: 40px;
+}
+#main-odstavec1 {
+  color: rgb(193, 193, 193);
+  text-align: center;
+}
+
+
+#main-nadpis2 {
+  color: rgb(208, 54, 54);
+  font-size: 40px;
+}
+#main-odstavec2 {
+  color: rgb(193, 193, 193);
+  text-align: center;
+}
+
+
+#main-nadpis3 {
+  color: rgb(67, 208, 54);
+  font-size: 40px;
+}
+#main-odstavec3 {
+  color: rgb(193, 193, 193);
+  text-align: center;
+}
+
+
+#main-nadpis4 {
+  color: rgb(62, 208, 54);
+  font-size: 40px;
+}
+#main-odstavec4 {
+  color: rgb(193, 193, 193);
+  text-align: center;
+  margin-bottom: 170px;
+}
+
+
+
